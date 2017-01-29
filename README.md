@@ -1,7 +1,7 @@
 # NTNU-project-thesis
 Repository description
 ------
-Project thesis written during the fall of 2016 as part of the course "TTK4550 Teknisk kybernetikk, fordypningsprosjekt" at the Norwegian University of Science and Technology (NTNU). This course corresponds to a workload of 15 ECTS credits, equivalent to half a semesters workload. The project thesis is titled "Robotic rehabilitation of upper-limb after stroke" and it recieved a grading score of B.
+Project thesis written during the fall of 2016 as part of the course "TTK4550 Teknisk kybernetikk, fordypningsprosjekt" at the Norwegian University of Science and Technology (NTNU). This course corresponds to a workload of 15 ECTS credits, equivalent to half a semesters workload. The project thesis is titled "Robotic rehabilitation of upper-limb after stroke" and it received a grading score of B.
 
 Abstract
 ------
